@@ -16,20 +16,9 @@ Hello there! 👋 I am an **independent game designer** with a passion for **car
 - **"Competitive Game Design and Combat"** 📖: In this book, I share insights and practical experiences in competitive game design, offering readers a deep dive into the artistry and science of game design.
 
 ### Exclusive Benefits for Patrons
-As a supporter on Patreon, you'll enjoy a range of exclusive perks:
-
 - **Early Access** 🚀: Be the first to experience my new designs and animations.
 - **Behind-the-Scenes Content** 🎬: Gain insight into my creative process, from sketches and concept development to the final product.
 - **Interactive Exchange** 🗣️: Engage in direct communication with me, where your feedback and suggestions can shape the direction of my creations.
 - **Custom Content** 🎨: Offer tailored game design and animation services based on your specific needs.
 - **Community Activities** 👥: Participate in exclusive activities and discussions available only to Patreon supporters.
 
-### The Significance of Your Support
-Your support is incredibly meaningful to me, as it not only helps me continue pursuing my passion for game design but also enables me to dedicate more time to enhancing the quality of my work, creating unforgettable gaming experiences.
-
-### Join Us in Shaping the Future
-Whether you're a gaming enthusiast, a fellow designer, or someone curious about the world of game creation, I welcome you to join my Patreon community. Let's explore the endless possibilities of game design and craft more exciting game worlds together!
-
-🤝 Let's embark on this creative journey hand in hand!
-
-Thank you for your support. Please adjust the content as needed to reflect your personal story and add any details you find important. I hope this introduction helps you successfully present your creations and philosophy on Patreon.
