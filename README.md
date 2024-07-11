@@ -2,9 +2,9 @@
 
 Welcome to my GitHub profile! Feel free to explore my repositories and contributions.
 
-## My Creative Space on Patreon
+## My Creative Space on Github
 
-### Welcome to My Patreon Space!
+### Welcome to My Github
 Hello there! 👋 I am an **independent game designer** with a passion for **cartoon character design**, **2D Spine animations**, and **game effects**. I am also the author of the book "*Competitive Game Design and Combat*". Here, you'll get an exclusive look into my creative world, where ideas are transformed into stunning game experiences.
 
 ### My Creative Journey
