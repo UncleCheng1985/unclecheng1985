@@ -1,4 +1,4 @@
-[![MasterHead](https://github.com/UncleCheng1985/unclecheng1985/blob/main/1920x640.png)
+![MasterHead](https://github.com/UncleCheng1985/unclecheng1985/blob/main/1920x640.png)
 
 ## Hi there 👋
 
