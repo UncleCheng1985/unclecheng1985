@@ -4,6 +4,10 @@
 
 Welcome to my GitHub profile! Feel free to explore my repositories and contributions.
 
+## My Email Address
+
+daggercheng@gmail.com
+
 ## My Creative Space on Github
 
 ### Welcome to My Github
